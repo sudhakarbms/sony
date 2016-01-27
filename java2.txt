@@ -1,1 +1,3 @@
 this is for add second file git repository.
+it check out b1.
+now it act as b1 file
