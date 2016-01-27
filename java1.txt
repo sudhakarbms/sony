@@ -7,8 +7,12 @@ hello
 to perform pull.
 to perform fetch
 <<<<<<< HEAD
+<<<<<<< HEAD
 pull in dev1
 
+=======
+stash create stash3
+>>>>>>> 1c962cd... modify
 =======
 stash create stash3
 >>>>>>> 1c962cd... modify
