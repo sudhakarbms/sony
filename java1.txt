@@ -6,5 +6,9 @@ this is b1 code to merge master.
 hello
 to perform pull.
 to perform fetch
+<<<<<<< HEAD
 pull in dev1
 
+=======
+stash create stash3
+>>>>>>> 1c962cd... modify
