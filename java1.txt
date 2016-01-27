@@ -1,2 +1,3 @@
 hi
-hello
+hello this is branch2 file.
+it check out from b1.
