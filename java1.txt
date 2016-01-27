@@ -3,3 +3,8 @@ hello this is branch1
 content.
 for testing.
 this is b1 code to merge master.
+hello
+to perform pull.
+to perform fetch
+pull in dev1
+
