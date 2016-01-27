@@ -6,5 +6,8 @@ this is b1 code to merge master.
 hello
 to perform pull.
 to perform fetch
+<<<<<<< HEAD
 pull in dev1
 
+=======
+>>>>>>> 0a8b89c... mdy
