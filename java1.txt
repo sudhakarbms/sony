@@ -2,3 +2,4 @@ hi
 hello this is branch1 
 content.
 for testing.
+this is b1 code to merge master.
