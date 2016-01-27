@@ -2,3 +2,4 @@ hi
 hello
 to perform pull.
 to perform fetch
+stash create stash3
